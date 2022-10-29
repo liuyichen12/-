@@ -1,0 +1,2 @@
+打开创建的脚本直接运行即可
+脚本名：bianshangxianjifen.m
